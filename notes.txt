@@ -1,1 +1,2 @@
 hello GitHub this better work
+git is very interesting
